@@ -45,7 +45,7 @@ def download_csv(url, force):
 
 def read_csv(file_name):
     import pandas
-    data = pandas.read_csv("./" + file_name + ".csv")
+    data = pandas.read_csv("./data_set/" + file_name + ".csv")
     del pandas
     return data
 

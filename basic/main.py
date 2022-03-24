@@ -1,3 +1,5 @@
+from LV0 import wine_test
+
 def pip_install(package):
     import sys
     import subprocess
@@ -8,7 +10,7 @@ def pip_install(package):
         print("install fail")
 
 
-#와 이건 꿀함수다
+#와 이건 멍꿀 함수다
 def custom_split(sepr_list, str_to_list):
     import re
     regular_exp = "|".join(map(re.escape, sepr_list))
@@ -50,7 +52,6 @@ def stub_download_csv(url, file_front_name, force):
     if force or not find_file_list(file_path_list):  # 하나라도 없거나 강제가 붙는다면 관련 데이터 지우고 다시 다운로드
         delete_file_list(file_path_list)
 
-        download_file_name = url.split("/")[-1]
         if not os.path.exists("./" + data_set_folder_path + file_front_name + ".zip"):  # zip 파일이 없다면 다운로드
             try:
                 import wget
@@ -85,4 +86,5 @@ def stub_download_csv(url, file_front_name, force):
 if __name__ == "__main__":
     bike_url = "https://bit.ly/3gLj0Q6"
     wine_url = "https://bit.ly/3i4n1QB"
-    stub_download_csv(wine_url, "wine", False)
+    # stub_download_csv(wine_url, "wine", False)
+    wine_test.stub()

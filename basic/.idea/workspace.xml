@@ -2,22 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51823125-3e75-4769-91e5-12f7ad2da71f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/._submission.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/._test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/._train.csv" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Desison_Tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/bike_submission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/bike_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/bike_train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/sample_submission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/wine.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/wine_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/wine_train.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/submission.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/기본다지기.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -77,5 +85,16 @@
       <updated>1648036416800</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -12,11 +12,6 @@ from tensorflow.python.client import device_lib
 
 print(device_lib.list_local_devices())
 
-
-
-
-
-
 # 모든 영역에서 돌리고 싶을때는 아래와 같이
 # os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 # gpus = tf.config.experimental.list_physical_devices('GPU')

@@ -1,3 +1,5 @@
 *.class
 *.pyc
 open/
+*.h5
+*.csv

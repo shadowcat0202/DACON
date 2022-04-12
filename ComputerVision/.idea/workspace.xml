@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26553e62-2e76-4196-be0e-d534ea977271" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/loss_function.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/titan.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iris.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iris.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/titan.py" beforeDir="false" afterPath="$PROJECT_DIR$/titan.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Polytechnics/인공지능 개론/Code" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RunManager" selected="Python.titan">

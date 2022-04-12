@@ -92,6 +92,9 @@ submit.to_csv("./database/submit.csv", index=False)
 # score = f_logistic_model.evaluate(X_test, y_test, verbose=1)
 # print(f"정답률={score[1]*100} loss={score[0]}")
 
+
+def score():
+    df_perfect = pd.read_csv
 df_perfect = pd.read_csv("./database/wow.csv")
 submit = pd.read_csv("./database/submit.csv")
 
